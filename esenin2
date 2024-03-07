@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>profile Esenin</title>   
+    
+</head>
+
+
+
+
+<body style="background-color: #FFECCE;">
+    
+    <table>
+        <tr>
+            <td><a style="color: purple;" href="https://youtu.be/dQw4w9WgXcQ?si=MQQuT9V9O6SCCzhM" target="_blank"><img src="https://avatars.dzeninfra.ru/get-zen_doc/5231691/pub_6343bbaf7f80c91eac300bde_6343bd87f9c01739a38cd6f8/scale_1200" alt="unkown picture" width="250"></a></td>
+        
+        
+            <td><h1 style="font-size: 35px; font-family: -apple-system,BlinkMacSystemFont,sans-serif;">Сергей Есенин</h1>   
+                
+            <br>
+            
+            <h5 style="color: black;">Творческая личность Сергея Есенина является крайне разноплановой. 
+                
+            Начальное творчество является представителем новокрестьянской лирики, 
+            поздние стихи – течение имажинизма.
+            В первых поэтических сборниках стихов Сергей Есенин был тонким лириком, мастером глубоко 
+            психологизированного пейзажа, певцом крестьянской Руси, знатоком народного языка и народной души.
+            Все это делало стихотворения Есенина понятными и доступными для простых людей, ведь они 
+            прекрасно понимали все, о чем писал поэт.</h5></td>
+        </tr>
+           
+    </table>
+    
+    <ol style="color: #A59871;">
+        <li>Стихи о любви</li>
+        <li>Стихи для детей</li>
+        <li>Стихи о природе</li>
+        <li>Стихи о жизни</li>
+        <li>Стихи о войне</li>
+        <li>Стихи о дружбе</li>
+        <li>Стихи про осень</li>
+        <li>Стихи про лето</li>
+        <li>Стихи о Москве</li>
+        <li>Стихи о деревне, селе</li>
+        <li>Стихи про алкоголь, пьянство</li>
+        <li>Поэмы Есенина</li>
+        <li>Анализ стихотворений Есенина</li>
+        <li>Стихи о Родине</li>
+        <li>Стихи о женщине</li>
+        <li>Стихи о маме</li>
+        <li>Стихи из школьной программы</li>
+        <li>Длинные стихи Есенина</li>
+        <li>Легкие и короткие стихи</li>
+        <li>Стихи о весне</li>
+        <li>Стихи о зиме</li>
+        <li>Стихи о Константиново</li>
+        <li>Стихи о животных</li>
+        <li>Стихи о смерти</li>
+        <li>Сказки Есенина для взрослых</li>
+        <li>Хулиганские, матерные стихи Есенина</li>
+        
+
+
+    </ol>
+
+
+ <a style="color: purple;" href="https://youtu.be/dQw4w9WgXcQ?si=MQQuT9V9O6SCCzhM">подробнее....</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h4><em>форма регистрации на сайте</em></h4>
+    
+
+
+
+
+    
+    <form>
+        <label for="name">Имя *</label>
+        
+        <input type="text" size="20" id="name"  placeholder="Введите ваше имя">
+        
+        <label for="number">    Номер *</label>
+        <input type="text" id="number" placeholder="Введите ваш номер">
+        <br>
+        <br>
+        <input type="submit" >
+        
+    </form>
+    
+</body>
+</html>
